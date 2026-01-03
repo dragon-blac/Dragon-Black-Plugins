@@ -1,0 +1,13 @@
+[
+    {
+        "name": "zip-crack",
+        "version": "1.0.1",
+        "author": "dragon",
+        "description": "zip password crack",
+        "source": "https://github.com/Brais-Moure/Dragon-Black):",
+        "git_url": "https://github.com/Brais-Moure/Dragon-Black):",
+        "main": "plugin.py",
+        "command": "zip-crack",
+        "default_function": "main"
+    }
+]
